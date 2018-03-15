@@ -33,7 +33,7 @@
 		"classmap": ["src/"]
     },
     "config": {
-        "bin-dir": "bin"
+        "bin-dir": "/var/app/current/vendor/bin"
     },
     "scripts": {
         "post-install-cmd": [
